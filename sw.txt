@@ -1,3 +1,3 @@
-Estoy aprendiendo Git para ocntrol de versiones
-Estoy entendiendo Git
+Estoy aprendiendo Git en Ingenieria de software para ocntrol de versiones
+Estoy entendiendo Git en Ingenieria de software
 Este texto se agrego desde la rama development
